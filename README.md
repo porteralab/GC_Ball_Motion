@@ -38,5 +38,5 @@ SETUP = either 0 or 1; 0 when trial-and-error testing thresh_circle and thresh_l
 
 ## SerialBallMotionAnalysis.m, SerialBallMotionAnalysisStart.m
 
-Used to process many ball motion videos, say overnight. Bascially, find individual constants for each video using the file above, and then arrange them into a array. I never really used this very much.
+Used to process many ball motion videos, say overnight. Bascially, find individual constants for each video using the file above, and then arrange them into individual arrays in the "start" function. I never really used this very much.
 
